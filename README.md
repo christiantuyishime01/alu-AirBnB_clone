@@ -1,1 +1,1 @@
-# alu-AirBnB_clone
+AirBnB Clone Project description of the Project This is the initial process of developing a full-fledged web application: an AirBnB clone. It aims at the development of a command-line interpreter to control and interact with the various objects in the application, which include Users, States, and Places. The parts of the project that will be developed upon in the future will include a database, API, and a front-end interface, and this interpreter will form its backbone.
